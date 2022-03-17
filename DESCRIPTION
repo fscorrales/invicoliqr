@@ -1,6 +1,6 @@
 Package: invicoliqr
 Title: slave
-Version: 0.0.0.9001
+Version: 0.0.0.9002
 Authors@R: person('Fernando', 'Corrales', email = 'fscorrales@gmail.com', role = c('cre', 'aut'))
 Description: Shiny App develop for INVICO’s (Instituto de Vivienda de Corrientes) salary settlement.
   The database it's not provide within this package due to privacy reasons.
