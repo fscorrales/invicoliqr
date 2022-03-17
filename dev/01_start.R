@@ -21,11 +21,13 @@
 golem::fill_desc(
   pkg_name = "invicoliqr", # The Name of the package containing the App
   pkg_title = "slave", # The Title of the package containing the App
-  pkg_description = "PKG_DESC.", # The Description of the package containing the App
+  pkg_description = "Shiny App develop for INVICO’s
+  (Instituto de Vivienda de Corrientes) salary settlement.
+  The database it's not provide within this package due to privacy reasons.", # The Description of the package containing the App
   author_first_name = "Fernando", # Your First Name
   author_last_name = "Corrales", # Your Last Name
   author_email = "fscorrales@gmail.com", # Your Email
-  repo_url = NULL # The URL of the GitHub Repo (optional)
+  repo_url = "https://github.com/fscorrales/invicoliqr" # The URL of the GitHub Repo (optional)
 )
 
 ## Set {golem} options ----
